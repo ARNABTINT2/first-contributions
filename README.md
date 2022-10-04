@@ -78,8 +78,8 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-
+<img align="right" width="300"  src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+ 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
@@ -87,7 +87,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+## Clone the repository 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -96,7 +96,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone " url you just copied "
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
